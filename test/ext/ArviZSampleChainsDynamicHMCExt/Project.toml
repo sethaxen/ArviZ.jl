@@ -8,7 +8,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 ArviZ = "0.12.0"
-DimensionalData = "0.27"
+DimensionalData = "0.27, 0.29"
 Random = "1.9"
 SampleChains = "0.5"
 SampleChainsDynamicHMC = "0.3"
